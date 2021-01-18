@@ -1,6 +1,6 @@
 {
   "name": "@definejs/proxy",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,10 +13,10 @@
     "url": "https://github.com/definejs/proxy.git"
   },
   "dependencies": {
-    "@definejs/fn": "^0.1.0",
-    "@definejs/json": "^0.1.0",
-    "@definejs/query": "^0.1.0",
-    "@definejs/script": "^0.1.0",
-    "@definejs/url": "^0.1.2"
+    "@definejs/fn": "^1.0.0",
+    "@definejs/json": "^1.0.0",
+    "@definejs/query": "^1.0.0",
+    "@definejs/script": "^1.0.0",
+    "@definejs/url": "^1.0.0"
   }
 }
